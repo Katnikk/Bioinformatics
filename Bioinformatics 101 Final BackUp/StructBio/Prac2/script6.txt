@@ -1,0 +1,13 @@
+background [0,0,0]
+set ambient 40
+set specular off
+
+select all
+color cpk
+cartoon off
+
+select sheet and 118-220 and not (174-175 or 149-150 or 122) and *h
+restrict selected
+center selected
+wireframe 70
+

@@ -1,0 +1,20 @@
+background [0,0,0]
+set ambient 40
+set specular off
+
+select all
+color white
+hbond off
+wireframe off
+cartoon
+select 116-120 
+color green
+pause 
+
+cartoon off
+select 116-120 
+color cpk
+restrict selected
+center selected
+wireframe 70
+hbond on

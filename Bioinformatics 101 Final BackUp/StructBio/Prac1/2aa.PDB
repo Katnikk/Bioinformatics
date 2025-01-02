@@ -1,0 +1,20 @@
+REMARK PDB file written by xfit(XtalView) on Sat Oct  9 22:54:32 2004
+REMARK User: fadoulo
+REMARK Directory: /home/fadoulo/PD407/1st/
+REMARK Input File: (PDB): ala.pdb
+REMARK Output File: (this file): ala1.pdb
+ATOM      1  N   HET    11     -48.529   2.682  -0.604  1.00  0.00      A       
+ATOM      2  HT1 HET    11     -49.324   3.215  -0.315  1.00  0.00      A       
+ATOM      3  HT2 HET    11     -48.479   2.657  -1.602  1.00  0.00      A       
+ATOM      4  HT3 HET    11     -47.694   3.086  -0.231  1.00  0.00      A       
+ATOM      5  CA  HET    11     -48.666   1.283  -0.088  1.00  0.00      A       
+ATOM      6  HA  HET    11     -48.693   1.291   0.996  1.00  0.00      A       
+ATOM      7  CB  HET    11     -50.005   0.683  -0.574  1.00  0.00      A       
+ATOM      8  HB1 HET    11     -50.847   1.322  -0.232  1.00  0.00      A       
+ATOM      9  HB2 HET    11     -50.042   0.636  -1.685  1.00  0.00      A       
+ATOM     10  HB3 HET    11     -50.166  -0.340  -0.171  1.00  0.00      A       
+ATOM     11  C   HET    11     -47.484   0.389  -0.485  1.00  0.00      A       
+ATOM     12  O   HET    11     -47.511  -0.822  -0.258  1.00  0.00      A       
+ATOM     13  OXT HET    11     -46.470   1.013  -1.072  1.00  0.00      A       
+TER      13      HET    11
+END   

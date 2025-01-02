@@ -1,0 +1,13 @@
+background [0,0,0]
+set ambient 40
+set specular off
+
+select all
+color cpk
+cartoon off
+
+select sheet  and backbone
+restrict selected
+center selected
+wireframe 70
+hbond on

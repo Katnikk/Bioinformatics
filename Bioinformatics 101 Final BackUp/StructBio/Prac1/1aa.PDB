@@ -1,0 +1,21 @@
+REMARK PDB file written by xfit(XtalView) on Mon Oct 11 00:20:43 2004
+REMARK User: fadoulo
+REMARK Directory: /home/fadoulo/PD407/
+REMARK Input File: (PDB): test.pdb
+REMARK Output File: (this file): vik.pdb
+
+ATOM      1  N   HET    11     -47.484   0.389  -0.485  1.00  0.00      A       
+ATOM      2  HT1 HET    11     -47.631  -0.528  -0.114  0.00  0.00      A       
+ATOM      3  HT2 HET    11     -46.642   0.778  -0.111  0.00  0.00      A       
+ATOM      4  HT3 HET    11     -47.427   0.348  -1.483  0.00  0.00      A       
+ATOM      5  CA  HET    11     -48.666   1.283  -0.088  1.00  0.00      A       
+ATOM      6  HA  HET    11     -48.693   1.291   0.996  1.00  0.00      A       
+ATOM      7  CB  HET    11     -50.005   0.683  -0.574  1.00  0.00      A       
+ATOM      8  HB1 HET    11     -50.847   1.322  -0.232  1.00  0.00      A       
+ATOM      9  HB2 HET    11     -50.042   0.636  -1.685  1.00  0.00      A       
+ATOM     10  HB3 HET    11     -50.166  -0.340  -0.171  1.00  0.00      A       
+ATOM     11  C   HET    11     -48.529   2.682  -0.604  1.00  0.00      A       
+ATOM     12  O   HET    11     -47.674   2.758  -1.117  0.00  0.00      A       
+ATOM     13  OXT HET    11     -49.526   3.482  -0.284  0.00  0.00      A       
+TER      13      HET    11
+END
